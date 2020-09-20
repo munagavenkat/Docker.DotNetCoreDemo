@@ -1,0 +1,12 @@
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\bin\Debug\netstandard2.0\DNCD.Services.API.Proxy.deps.json
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\bin\Debug\netstandard2.0\DNCD.Services.API.Proxy.dll
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\bin\Debug\netstandard2.0\DNCD.Services.API.Proxy.pdb
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.AssemblyInfoInputs.cache
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.AssemblyInfo.cs
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.dll
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.pdb
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.csprojAssemblyReference.cache
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\bin\Debug\netstandard2.0\DNCD.Common.Base.dll
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\bin\Debug\netstandard2.0\DNCD.Common.Base.pdb
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.csproj.CopyComplete
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Services.API.Proxy\obj\Debug\netstandard2.0\DNCD.Services.API.Proxy.csproj.CoreCompileInputs.cache

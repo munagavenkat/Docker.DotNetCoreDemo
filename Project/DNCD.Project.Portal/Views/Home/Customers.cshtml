@@ -1,0 +1,24 @@
+﻿@model IEnumerable<DNCD.Services.API.Proxy.Domains.CustomerDomain>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Address</th>
+        <th>Phonenumber</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Address</td>
+            <td>@item.PhoneNumber</td>
+            <td>
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Customer" asp-route-id="@item.ID">View</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,8 @@
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\bin\Debug\netstandard2.0\DNCD.Data.DataAccess.deps.json
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\bin\Debug\netstandard2.0\DNCD.Data.DataAccess.dll
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\bin\Debug\netstandard2.0\DNCD.Data.DataAccess.pdb
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\obj\Debug\netstandard2.0\DNCD.Data.DataAccess.AssemblyInfoInputs.cache
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\obj\Debug\netstandard2.0\DNCD.Data.DataAccess.AssemblyInfo.cs
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\obj\Debug\netstandard2.0\DNCD.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\obj\Debug\netstandard2.0\DNCD.Data.DataAccess.dll
+C:\demo\DotNetCoreDemo\Data\DNCD.Data.DataAccess\obj\Debug\netstandard2.0\DNCD.Data.DataAccess.pdb

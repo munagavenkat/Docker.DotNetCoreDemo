@@ -1,0 +1,9 @@
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\bin\Debug\netstandard2.0\DNCD.Services.Features.Customer.deps.json
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\bin\Debug\netstandard2.0\DNCD.Services.Features.Customer.dll
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.csprojAssemblyReference.cache
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.AssemblyInfoInputs.cache
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.AssemblyInfo.cs
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\bin\Debug\netstandard2.0\DNCD.Services.Features.Customer.pdb
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.csproj.CoreCompileInputs.cache
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.dll
+C:\demo\DotNetCoreDemo\Services\Features\DNCD.Services.Features.Customer\obj\Debug\netstandard2.0\DNCD.Services.Features.Customer.pdb

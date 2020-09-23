@@ -17,6 +17,9 @@ namespace DNCD.Services.API.Proxy
             _appSettings = appSettings;
             _apiClient = apiClient;
 
+            //_appSettings.CustomerServiceAPI.BaseUrl = "http://main-api/";
+            //_appSettings.CustomerServiceAPI.GetCustomers = "api/customers";
+            //_appSettings.CustomerServiceAPI.GetCustomerByID = "api/customers/{0}";
         }
 
         /// <summary>

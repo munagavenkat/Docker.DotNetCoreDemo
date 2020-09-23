@@ -37,6 +37,10 @@ namespace DNCD.Project.Portal
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+
+            Console.WriteLine($"Environment : {environment}");
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

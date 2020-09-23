@@ -117,7 +117,7 @@ C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\bin\Debug\netcoreapp3.1\ru\Mi
 C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\DNCD.Project.Portal.csproj.CoreCompileInputs.cache
-C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\DNCD.Project.Portal.MvcApplicationPartsAssemblyInfo.cache
 C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
 C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customer.cshtml.g.cs
+C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\DNCD.Project.Portal.csproj.CoreCompileInputs.cache
+C:\demo\DotNetCoreDemo\Project\DNCD.Project.Portal\obj\Debug\netcoreapp3.1\DNCD.Project.Portal.MvcApplicationPartsAssemblyInfo.cache

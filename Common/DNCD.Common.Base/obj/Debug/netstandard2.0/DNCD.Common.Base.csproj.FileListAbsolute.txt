@@ -6,4 +6,3 @@ C:\demo\DotNetCoreDemo\Common\DNCD.Common.Base\bin\Debug\netstandard2.0\DNCD.Com
 C:\demo\DotNetCoreDemo\Common\DNCD.Common.Base\obj\Debug\netstandard2.0\DNCD.Common.Base.dll
 C:\demo\DotNetCoreDemo\Common\DNCD.Common.Base\obj\Debug\netstandard2.0\DNCD.Common.Base.pdb
 C:\demo\DotNetCoreDemo\Common\DNCD.Common.Base\obj\Debug\netstandard2.0\DNCD.Common.Base.csproj.CoreCompileInputs.cache
-C:\demo\DotNetCoreDemo\Common\DNCD.Common.Base\obj\Debug\netstandard2.0\DNCD.Common.Base.csprojAssemblyReference.cache

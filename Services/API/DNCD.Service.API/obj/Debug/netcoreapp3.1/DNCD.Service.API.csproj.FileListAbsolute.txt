@@ -31,8 +31,6 @@ C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\Mic
 C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\DNCD.Common.Base.dll
 C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\DNCD.Common.Base.pdb
+C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\RestSharp.dll
 C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\obj\Debug\netcoreapp3.1\DNCD.Service.API.csproj.CoreCompileInputs.cache
 C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\obj\Debug\netcoreapp3.1\DNCD.Service.API.MvcApplicationPartsAssemblyInfo.cache
-C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\DNCD.Data.DataAccess.dll
-C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\DNCD.Data.DataAccess.pdb
-C:\demo\DotNetCoreDemo\Services\API\DNCD.Service.API\bin\Debug\netcoreapp3.1\RestSharp.dll

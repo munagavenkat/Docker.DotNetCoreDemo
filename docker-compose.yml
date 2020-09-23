@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+  main-api:
+    build:
+      context: ./
+      dockerfile: Services/API/DNCD.Service.API/Dockerfile
+    ports:
+      - "5555:80"
+    networks:
+      - back
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+  main-mvc:
+    build:
+      context: ./
+      dockerfile: Project/DNCD.Project.Portal/Dockerfile
+    ports:
+      - "5556:80"
+    networks:
+      - back
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production 
+networks:
+  back:
+    driver: nat

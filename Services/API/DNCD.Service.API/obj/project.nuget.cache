@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n/QvL0RINwgqeAOWECr6YSUrYidCow0eJYnB1yXyZNOnFrMcSurHTpg9n7bG8fHeGWd131sXmRHfOZNeBHWiUA==",
+  "dgSpecHash": "IcArNyt4ckRfdvhuOFUmcox2/LXEzPgwRdDYeBAT/8DKyqASV147MiaMkl20Vw43hmt9tGxqvA4vfEsBUmaO7Q==",
   "success": true,
   "projectFilePath": "C:\\demo\\DotNetCoreDemo\\Services\\API\\DNCD.Service.API\\DNCD.Service.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\munagav\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
     "C:\\Users\\munagav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\munagav\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\munagav\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\munagav\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\munagav\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
   ],

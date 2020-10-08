@@ -33,7 +33,8 @@ namespace DNCD.Service.API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            // Disabled Https redirection
+           // app.UseHttpsRedirection(); 
 
             app.UseRouting();
 
